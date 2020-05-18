@@ -1,6 +1,12 @@
 # py2048
 ## This is 2048 game code
+## This is the updated game in which we give win number by own.
+# About this game:-
+in this we want to form a number given by ourself by moving the numbers in the board .We can move numbers up,down ,right,left and if there are same number present consecutively then they merges in one and turn into twice of this number .If user unable to create given number then he lose.
+## We can use it for size 2 and size 1 also.
+## In size 1 if the winning number is same as random number comes in one box then the user wins otherwise lose.
 ### There is a file named py2048.py is 2048 game code 
+### os.system('cls') command is used to clear screen after move.
 ### Run this code on windows only as.system('cls')is used in code which runs in windows.
 ### Make every move after minimum(0.5s) because without time command time.sleep(0.5s) game running very fast and it takes input twice on    single key press.
 ### To run this game in command line we have to write command:-
