@@ -24,3 +24,12 @@
 ##### This function merges matrix to down.
 #### g. def merup()
 ##### This function merges matrix in up direction.
+#### h.def pickvalue()
+##### This function randomly pickly value btwn 2 and 4.
+#### i.def addvalue()
+##### This function add this random value at random place in mat named matrix.
+#### j.def won()
+##### This function checks the win condition after every move.
+#### k.def nomove()
+##### This function checks that there is more move available or not after every move.
+### Some screenshots of game:-
