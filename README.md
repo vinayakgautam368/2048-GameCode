@@ -11,7 +11,7 @@ in this we want to form a number given by ourself by moving the numbers in the b
 ### Make every move after minimum(0.5s) because without time command time.sleep(0.5s) game running very fast and it takes input twice on    single key press.
 ### To run this game in command line we have to write command:-
 ![Capture](https://user-images.githubusercontent.com/64793363/82179818-d9b63900-98fc-11ea-8c1e-a898b69cdd0a.PNG)
-### Modules imported for this code:-
+### Modules required for this code:-
 ![Capture1](https://user-images.githubusercontent.com/64793363/82179984-2ef24a80-98fd-11ea-8a20-84e09f98fbb7.PNG)
 ### Initializing of board
 ### There is appending of row according to the size given by user in the empty matrix named mat.
@@ -42,3 +42,4 @@ in this we want to form a number given by ourself by moving the numbers in the b
 #![Capture3](https://user-images.githubusercontent.com/64793363/82181389-0ddf2900-9900-11ea-8c69-5e0888d674a9.PNG)
 #![Capture2](https://user-images.githubusercontent.com/64793363/82181395-10418300-9900-11ea-8c23-c2f137ee9e56.PNG)
 #![Capture4](https://user-images.githubusercontent.com/64793363/82181393-0fa8ec80-9900-11ea-89e9-2f5e62437047.PNG)
+# PLAY AND ENJOY!!!!
