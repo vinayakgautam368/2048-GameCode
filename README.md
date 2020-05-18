@@ -1,7 +1,7 @@
 # py2048
 ## This is 2048 game code
 ## This is the updated game in which we give win number by own.
-# About this game:-
+## About this game:-
 in this we want to form a number given by ourself by moving the numbers in the board .We can move numbers up,down ,right,left and if there are same number present consecutively then they merges in one and turn into twice of this number .If user unable to create given number then he lose.
 ## NOTE:- Always give winning number in such a way that the given number is in the power of 2. i.e (2^i) where i may be 1,2,3,4,5,6..........
 ## We can use it for size 2 and size 1 also.
