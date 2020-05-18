@@ -38,7 +38,7 @@ in this we want to form a number given by ourself by moving the numbers in the b
 ##### This function checks the win condition after every move.
 #### k.def nomove()
 ##### This function checks that there is more move available or not after every move.
-### Some screenshots of game:-
+### Some snapshots of game:-
 #![Capture3](https://user-images.githubusercontent.com/64793363/82181389-0ddf2900-9900-11ea-8c69-5e0888d674a9.PNG)
 #![Capture2](https://user-images.githubusercontent.com/64793363/82181395-10418300-9900-11ea-8c23-c2f137ee9e56.PNG)
 #![Capture4](https://user-images.githubusercontent.com/64793363/82181393-0fa8ec80-9900-11ea-89e9-2f5e62437047.PNG)
